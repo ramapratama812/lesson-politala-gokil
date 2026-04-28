@@ -1,6 +1,11 @@
 # flutter_belajar
 
+# lesson-politala-gokil
+
 A new Flutter project.
+Repo belajar flutter paling gokil
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREP2p4HuMZJ5mkQOGHAUidmqdAtmdwMqh7ZA&s)
 
 ## Getting Started
 
@@ -14,4 +19,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# lesson-politala-gokil
